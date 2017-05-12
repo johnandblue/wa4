@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "browser-sync": "^2.18.8",
+    "handlebars": "^4.0.8",
     "koa": "^2.2.0",
     "koa-router": "^7.1.1",
     "koa-static": "^3.0.0",
